@@ -10,10 +10,10 @@ Passar dependências como parâmetros para outros arquivos(classes ou funções)
 
 Transferência de dados para arquivos separados
 
-# Responsabilidade das rotas
-
-Receber a requisição -> chamar outro arquivo para tratar a requisição -> devolver uma resposta
-
 # DRY -> Don't repeat yourself
 
 Princípio do SOLID sobre não repetir códigos na aplicação(regras de négocio)
+
+# Responsabilidade das rotas
+
+Receber a requisição -> chamar outro arquivo para tratar a requisição -> devolver uma resposta
